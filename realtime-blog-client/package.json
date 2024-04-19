@@ -9,7 +9,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "axios": "^1.6.8",
+    "laravel-echo": "^1.16.1",
+    "pusher-js": "^8.4.0-rc2",
     "vue": "^3.4.21",
+    "vue-pusher": "^1.1.0",
     "vue-router": "^4.3.0"
   },
   "devDependencies": {
